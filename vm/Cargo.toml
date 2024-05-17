@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "primitives",
+    "traits",
+    "vm/l1x-ebpf-runtime",
+    "vm/l1x-rbpf",
+    "vm/l1x-vm-cli",
+    "vm/vm-execution-fee",
+    "vm/vm-outcome",
+]
